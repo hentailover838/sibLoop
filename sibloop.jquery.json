@@ -1,7 +1,7 @@
 {
     "name": "sibloop",
     "title": "sibLoop",
-    "description": "Loop through siblings with jQuery",
+    "description": "Loop through siblings with jQuery. Adds methods to get the next or first / prev or last sibling elements.",
     "keywords": [
         "sibling",
         "siblings",
@@ -20,7 +20,7 @@
         }
     ],
     "bugs": "https://github.com/pdmulvey/sibLoop/issues",
-    "docs": "https://github.com/pdmulvey/sibLoop",
+    "docs": "https://github.com/pdmulvey/sibLoop#usage",
     "dependencies": {
         "jquery": ">=1.5"
     }
