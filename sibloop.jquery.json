@@ -8,7 +8,7 @@
         "loop",
         "cycle"
     ],
-    "version": "1.0.0",
+    "version": "1.0.2",
     "author": {
         "name": "Patrick Mulvey",
         "url": "http://patrickmulvey.com"
@@ -19,6 +19,7 @@
             "url": "https://github.com/pdmulvey/sibLoop/blob/master/LICENSE"
         }
     ],
+    "homepage": "https://github.com/pdmulvey/sibLoop",
     "bugs": "https://github.com/pdmulvey/sibLoop/issues",
     "docs": "https://github.com/pdmulvey/sibLoop#usage",
     "dependencies": {
