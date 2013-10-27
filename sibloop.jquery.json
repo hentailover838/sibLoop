@@ -1,0 +1,27 @@
+{
+    "name": "sibloop",
+    "title": "sibLoop",
+    "description": "Loop through siblings with jQuery",
+    "keywords": [
+        "sibling",
+        "siblings",
+        "loop",
+        "cycle"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Patrick Mulvey",
+        "url": "http://patrickmulvey.com"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/pdmulvey/sibLoop/blob/master/LICENSE"
+        }
+    ],
+    "bugs": "https://github.com/pdmulvey/sibLoop/issues",
+    "docs": "https://github.com/pdmulvey/sibLoop",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
