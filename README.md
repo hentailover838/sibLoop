@@ -6,6 +6,13 @@ When manipulating DOM elements with jQuery, it is common to want to loop through
 
 This plugin adds two methods to jQuery - `.loopNext()` and `.loopPrev()` - which handle this logic for you.
 
+## Download
+
+Grab the files below and include them in your HTML as normal. Production version is only 182 bytes when gzipped. 
+
+* [Development](https://github.com/pdmulvey/sibLoop/raw/master/src/jquery.sibloop.js) - unminified
+* [Production](https://github.com/pdmulvey/sibLoop/raw/master/src/jquery.sibloop.min.js) - minified
+
 ## Usage
 
 The two methods are pretty self-explanatory; `.loopNext()` will get the *next or first* sibling element, while `.loopPrev()` will get the *previous or last* sibling. 
