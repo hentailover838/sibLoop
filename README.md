@@ -1,6 +1,6 @@
 # sibLoop - loop through siblings with jQuery
 
-`sibLoop` is an extremely lightweight (just *182 bytes*) jQuery plugin that allows you to loop through sibling elements. 
+`sibLoop` is an extremely lightweight (only 0.3kb) jQuery plugin that allows you to loop through sibling elements. 
 
 When manipulating DOM elements with jQuery, it is common to want to loop through siblings. You want to get the next sibling element, or, if there isn't a next element, loop back to the first sibling. jQuery doesn't support this out of the box - it is necessary to write your own code to handle the *next or first* logic.
 
@@ -8,7 +8,7 @@ This plugin adds two methods to jQuery - `.loopNext()` and `.loopPrev()` - which
 
 ## Download
 
-Grab the files below. Production version is only 182 bytes when gzipped. 
+Grab the files below. Production version is only 0.3kb when gzipped. 
 
 * [Development](https://github.com/pdmulvey/sibLoop/raw/master/src/jquery.sibloop.js) - unminified
 * [Production](https://github.com/pdmulvey/sibLoop/raw/master/src/jquery.sibloop.min.js) - minified

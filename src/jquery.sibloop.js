@@ -1,3 +1,10 @@
+/*
+ * sibLoop v1.0.3 - Loop through siblings with jQuery
+ * https://github.com/pdmulvey/sibLoop
+ * 
+ * Copyright (c) 2013 Patrick Mulvey - http://patrickmulvey.com
+ * License: MIT (https://raw.github.com/pdmulvey/sibLoop/master/LICENSE)
+ */
 ;(function($){
     
     "use strict";
