@@ -1,4 +1,4 @@
-/*
+/*!
  * sibLoop v1.0.3 - Loop through siblings with jQuery
  * https://github.com/pdmulvey/sibLoop
  * 
@@ -18,7 +18,7 @@
             var $this = $(this);
             
             // Return either .next() or the first matching element in the set
-            return ($this.next(selector).length > 0) ? $this.next(selector) : $this.prevAll(selector).last();
+            return ($this.next(selector).length > 0) ? $this.next(selector).get(0) : $this.prevAll(selector).last().get(0);
         });
     };
     
@@ -32,7 +32,7 @@
             var $this = $(this);
             
             // Return either .prev() or the last matching element in the set
-            return ($this.prev(selector).length > 0) ? $this.prev(selector) : $this.nextAll(selector).last();
+            return ($this.prev(selector).length > 0) ? $this.prev(selector).get(0) : $this.nextAll(selector).last().get(0);
         });
     };
     
