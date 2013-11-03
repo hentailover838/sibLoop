@@ -10,7 +10,7 @@
     "use strict";
     
     // Get next or first element, filtered by selector
-	$.fn.loopNext = function(selector) {
+    $.fn.loopNext = function(selector) {
         
         // Loop through the jQuery set
         return this.map(function(){
