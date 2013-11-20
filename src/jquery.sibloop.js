@@ -1,5 +1,5 @@
 /*!
- * sibLoop v1.0.4 - Loop through siblings with jQuery
+ * sibLoop v1.0.5 - Loop through siblings with jQuery
  * https://github.com/pdmulvey/sibLoop
  * 
  * Copyright (c) 2013 Patrick Mulvey - http://patrickmulvey.com
